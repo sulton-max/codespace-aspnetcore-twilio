@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "K3Ex+l/bFec7AnWVvNnthX5rIDTTT2UHtePrFGwicyu7bZHi9x19T6++uNoMI2SsbbDgCyHWo0nxrI+MB03ODA==",
+  "dgSpecHash": "Z/7A+2v5C0vEOsPEvxu6AFZfbuQOVDPb2qkJ+HpTmoqCAMOUb5gj/r7vEHG4UoEa3rrLl2HZkeiopV5WZdcufA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Repositories\\Codespace\\Backend\\Frameworks\\Asp.NET\\Communications\\TwilioExample\\App.Api\\App.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Max\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.5\\microsoft.entityframeworkcore.inmemory.7.0.5.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\microsoft.extensions.configuration.binder.7.0.3.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",

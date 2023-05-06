@@ -40,6 +40,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            },
             "Twilio.AspNet.Core": {
               "target": "Package",
               "version": "[8.0.1, )"

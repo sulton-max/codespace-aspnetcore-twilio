@@ -1,4 +1,9 @@
+using Twilio.AspNet.Core;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddTwilioClient();
+
 var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");

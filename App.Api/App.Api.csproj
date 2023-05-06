@@ -4,6 +4,11 @@
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>a977751a-27fe-418e-a60a-c24f15e43db2</UserSecretsId>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Twilio.AspNet.Core" Version="8.0.1" />
+    </ItemGroup>
 
 </Project>

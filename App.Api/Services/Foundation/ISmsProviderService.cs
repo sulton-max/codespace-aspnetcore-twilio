@@ -1,6 +1,6 @@
 ﻿namespace App.Api.Services.Foundation;
 
-public class ISmsProviderService
+public interface ISmsProviderService
 {
-    
+    ValueTask<bool> SendSmsAsync(string phoneNumber, string message, string from, string to);
 }
